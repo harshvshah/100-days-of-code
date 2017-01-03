@@ -9,14 +9,14 @@ Work:  https://github.com/wolfejw86/solve-binaries
 
 
 
-### Day 0: Date (Example 1)
+### Day 2: January 2nd, 2017
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: learned more bootstrap layout more intensely, helped a friend get his setInterval() commands working.  displayed the trivia game page using mostly bootstrap
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Still really struggling with bootstrap, however javascript is feeling very strong these days.  (i did struggle with reusing my recursive shuffle method in a different situation)
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** https://github.com/wolfejw86/trivia-basic
 
 
 ### Day 1: June 27, Monday
