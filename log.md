@@ -19,12 +19,10 @@ Work:  https://github.com/wolfejw86/solve-binaries
 **Link to work:** https://github.com/wolfejw86/trivia-basic
 
 
-### Day 1: June 27, Monday
+### Day 2: January 3rd, 2017
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: added logic to the trivia game + cool popup displays, real time stats, and cycling through questions when right or wrong, as well as a user select option to determine difficulty and category
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts:** bootstrap getting stronger, game logic still not as good as it could be.  i want to make a constructor object that will save an ended game, and at the end of the player experience, show all kinds of stats
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** https://github.com/wolfejw86/trivia-basic
