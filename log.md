@@ -35,7 +35,7 @@ Work:  https://github.com/wolfejw86/solve-binaries
 
 **Link to work:** https://github.com/wolfejw86/trivia-basic
 
-### Day 5: January 4th, 2017
+### Day 5: January 5th, 2017
 
 **Today's Progress**: bootcamp thursday night class.  integrated OMDB API to display movie posters and movie info.  made a small app using OpenWeather API as well to show local weather of a certain location.  also tidied up the trivia app for mobile responsiveness and to check for content that fails to load.
 
@@ -47,3 +47,18 @@ Work:  https://github.com/wolfejw86/solve-binaries
 End Goal:  Integrate a google maps API, that when you click on it you can get geolocation and weather data for the place you clicked on.
 
 **Link to work:** https://github.com/wolfejw86/trivia-basic
+
+### Day 5: January 6th, 2017
+
+**Today's Progress**: mini-hackathon with other bootcampers usign HTML5 Canvas for the first time - made a space invader run around the screen and shoot a laser out of his head (lol)
+
+**Thoughts:** 
+I would like to add integrating canvas into my RPG game to the list of things to do.
+APIs are STILL king.  Added to the list now are:
+- integrating a google maps API
+- using the google geolocation API
+- using the spotify API
+- using the Twitter API to automatically tweet something
+End Goal:  Integrate a google maps API, that when you click on it you can get geolocation and weather data for the place you clicked on.
+
+**Link to work:** https://github.com/wolfejw86/first-canvas-test
