@@ -62,3 +62,51 @@ APIs are STILL king.  Added to the list now are:
 End Goal:  Integrate a google maps API, that when you click on it you can get geolocation and weather data for the place you clicked on.
 
 **Link to work:** https://github.com/wolfejw86/first-canvas-test
+
+### Day 6: January 7th, 2017
+
+**Today's Progress**: Combined google maps javascript API with Open Weather API to get current conditions of wherever you clicked on.
+
+**Thoughts:** 
+I would like to add integrating canvas into my RPG game to the list of things to do.
+APIs are STILL king.  Added to the list now are:
+
+- using the google geolocation API
+- using the spotify API
+- using the Twitter API to automatically tweet something
+
+
+**Link to work:** https://github.com/wolfejw86/weather-clicker
+
+### Day 7: January 8th, 2017
+
+**Today's Progress**: Got the first half of my cipher algorithm program working! Can now solve Ceasar Cipher encryptions of any key length. Touched up various other programs - removed the potential to spam click through my Earthbound RPG
+
+**Thoughts:** 
+I would like to add integrating canvas into my RPG game to the list of things to do.
+APIs are STILL king.  Added to the list now are:
+- refinement of bootostrap
+- using the google geolocation API
+- using the spotify API
+- using the Twitter API to automatically tweet something
+
+
+**Link to work:** https://github.com/wolfejw86/cipherprompt
+
+
+
+### Day 9: January 9th, 2017
+
+**Today's Progress**: Made a mobile-responsive giphy search engine that randomly returns results.
+Also added marker info windows to weather clicker app.  Added conditions to change the background image of the weather clicker app to reflect the weather conditions of the place you previously clicked on.
+
+**Thoughts:** 
+- study up on Vigenere's cipher
+- refinement of bootostrap
+- using the google geolocation API
+- using the spotify API
+- using the Twitter API to automatically tweet something
+
+
+**Link to work:** https://powerful-journey-23725.herokuapp.com/ - giphy search
+https://github.com/wolfejw86/weather-clicker
