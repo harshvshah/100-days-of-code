@@ -94,7 +94,6 @@ APIs are STILL king.  Added to the list now are:
 **Link to work:** https://github.com/wolfejw86/cipherprompt
 
 
-
 ### Day 9: January 9th, 2017
 
 **Today's Progress**: Made a mobile-responsive giphy search engine that randomly returns results.
@@ -110,3 +109,44 @@ Also added marker info windows to weather clicker app.  Added conditions to chan
 
 **Link to work:** https://powerful-journey-23725.herokuapp.com/ - giphy search
 https://github.com/wolfejw86/weather-clicker
+
+### Day 10: January 10th, 2017
+
+**Today's Progress**: 
+Continued to integrate APIs into practical use.
+Created a New York Times article search query, returning 5 article results that are clickable, and searchable.
+***Notes:
+It is sometimes more difficult to work in a team when tasks aren't delegated properly.  
+
+### Day 11: January 11th, 2017
+
+**Today's Progress**: Added google maps API to our meetup page.  Began reformatting my portfolio into a responsive single page design.  Also helped come up with curriculum for our first meetup session.
+
+### Day 12: January 12th, 2017
+
+**Today's Progress**: Figured out how to easily translate base 10 numbers into binary.
+Made additions to the meetup responsive site.
+Introduction to local storage, session storage, and cookies in javascript.  Made a to do list app that uses local storage to keep track of tasks!
+Notes:
+Local storage takes only strings, can store more data than cookies.  Cookies have an expiration date.  Session storage only lasts while the tab/window is open.
+
+### Day 13: January 13, 2017
+
+**Today's Progress**: Not a ton of hard coding today, no actual pushes to github.  Worked on a codewars challenge to change it up a bit - still haven't gotten it yet.  It is a task to find all possibilities of combinations of numbers.  [1,2,3,4,5] has 5^5 possibilities, but how do I find them all without repeating??  Tough stuff!
+Also, embarked on the journey to create a home base server today.  Succeeded in installing linux ubuntu server 16.04 on an old laptop, and got the LAMP stack installed.  Actually uploaded a few files to an apache2 server.  I now have my own personal "Google Drive".  Can't wait to actually get it hosting my websites.(At least a few of them)  
+Notes:
+I forgot to push to github today, and it looks like I broke my streak :(
+
+### Day 14: January 14, 2017
+
+**Today's Progress**: Saturday class day! Lots of coding.  Learned to use and integrate firebase to do the following:
+- keep track of variables forever
+- able to be altered and displayed on a web page dynamically (live)
+- able to store and edit objects with javascript
+- able to receive form data
+- able to monitor the number of people currently connect/watching the web page
+Cool stuff!
+
+### Day 15: January 15, 2017
+
+**Today's Progress**: Added firebase form data to our website for the meetup.  We went live with the meetup signup page and got a lot of initial interest!  Also embarked on learning C# today on top of javascript.  Wrote my first calculator application in the console (nothing fancy). 
