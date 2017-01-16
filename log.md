@@ -147,6 +147,8 @@ I forgot to push to github today, and it looks like I broke my streak :(
 - able to monitor the number of people currently connect/watching the web page
 Cool stuff!
 
+Notes:  Led a presentation in the Web Development class today where I taught the entire class a "better" way to utilize in class exercises.  [git pull] the content from the GitLab so that you can have a directory tree in your text editor already, then pull it up and go!  People liked it and responded well!
+
 ### Day 15: January 15, 2017
 
 **Today's Progress**: Added firebase form data to our website for the meetup.  We went live with the meetup signup page and got a lot of initial interest!  Also embarked on learning C# today on top of javascript.  Wrote my first calculator application in the console (nothing fancy). 
